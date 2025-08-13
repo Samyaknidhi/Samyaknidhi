@@ -1,6 +1,6 @@
 HEY THERE 🤙
 - I am Currently learning Matlab
-- Skills : System Verilog
+- Skills : Verilog, HLS, C++, C
 - my pronouns He/Him
 - Passion : Playing the Keyboard ( check out my youtube channel, link is in the profile)
 - Fun fact : You can Never lick your own elbow (Try it at your own peril) 😎 
